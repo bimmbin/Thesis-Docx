@@ -1,0 +1,19 @@
+---lemer
+reorder the names in the first page in alphabetical order LN
+redundant titles
+section title should be centered aligned
+remove extra space after chapter section
+stop using etc, include all
+remove update in objectives, should include all the functions like (add,edit,delete)
+---orvile
+brief introduction only, do not include all
+remove extra space after chapter section
+include citation in every problem and solution
+Remove third person point of view in purpose and description
+include all the title when indicating the system
+make words more formal
+include delimitation
+---maam.erica
+Include all the department or office that was part of this study
+Prevent diagrams or tables splitting to different page
+
